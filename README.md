@@ -1,10 +1,12 @@
 # kinetics_DNA_Hybridization
 Gillespie script to simulate the effects of binding during DNA hybridization
 
-Compile the code:
+__Compile the code__:
+
 `g++ -std=c++17 -O3 fileName.cpp -o kDNA`
 
-Run the code:
+__Run the code__:
+
 seq = 'ACATTTAGAGTAGTCCTTGGAGATTTTATGGAGATG'
 stop = 1000
 
