@@ -8,6 +8,7 @@ __Compile the code__:
 __Run the code__:
 
 seq = 'ACATTTAGAGTAGTCCTTGGAGATTTTATGGAGATG'
+
 stop = 1000
 
 `./kDNA --seq $seq --stop $stop`
